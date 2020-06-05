@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715237679634",
+    "firebase_url": "https://buyaladdin-fcm.firebaseio.com",
+    "project_id": "buyaladdin-fcm",
+    "storage_bucket": "buyaladdin-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715237679634:android:5b9cb7c313d95938c0eecb",
+        "android_client_info": {
+          "package_name": "com.buyaladdin.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715237679634-5ei0mjr72nbecfngij2amvjda0dgrldh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buyaladdin.fcm",
+            "certificate_hash": "2e57386feb4dfe45b653f11416fa55e0e3faea1a"
+          }
+        },
+        {
+          "client_id": "715237679634-dhic4r116c2302621vbsj3pqjv1gk0v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYafnMtznS32eyJhQ577Afa-_kNHkC_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715237679634-dhic4r116c2302621vbsj3pqjv1gk0v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
